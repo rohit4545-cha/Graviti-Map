@@ -1,0 +1,89 @@
+input{
+    width: 400px !important;
+    padding-left: 50px  !important;
+    height: 60px !important;
+    font-weight: bold !important;
+    font-size: large !important;
+}
+form{
+    padding: 0 !important;
+}
+p{
+    margin-top: 3% !important;
+}
+.div1{
+    width: auto;
+    padding: 0;
+    height: auto;
+}
+button{
+    float: right;
+    font-size: large !important;
+    padding: 12px 30px !important;
+    position: fixed;
+    border-radius: 25px !important;
+    top: 33%;
+    left: 40%;
+    background-color: darkblue !important;
+}
+.form-group{
+    padding: 10px 0;
+    margin: 3% 0;
+}
+.forms{
+   margin: 0 9%;
+}
+.dist{
+    margin: -12% 0 0 0;
+    padding: 0;
+    width: 600px;
+}
+.display{
+    border: solid 0.2px rgb(213, 213, 213);
+    margin: 2% 0;
+    width: 600px;
+    height: 90px;
+    padding: 15px;
+    background-color: white;
+}
+.text{
+    float: left;
+    font-size: large;
+}
+small{
+    margin: 2% !important;
+}
+.distance{
+    float: right;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(0, 145, 255);
+}
+ .map{
+    top: 10%;
+    right: 2%;
+} 
+.form-input{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 2px 0;
+}
+.icon{
+    position: absolute;
+    left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    color: rgb(0, 145, 255);
+}
+.map-box {
+    margin: 10px 80px;
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
